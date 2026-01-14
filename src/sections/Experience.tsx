@@ -4,25 +4,18 @@ import { motion } from "framer-motion";
 const Experience: React.FC = () => {
   const experiences = [
     {
+      role: "Digital Communication Consultant",
+      company: "[24]7.ai",
+      period: "Full Time",
+      description:
+        "Creating impactful customer experiences at 247.ai.",
+    },
+    {
       role: "Frontend Developer & UI/UX Designer",
       company: "Genzi AI",
       period: "Intern",
       description:
         "Developed the Prop Panda website, an AI-powered real estate assistant. Worked on frontend development and crafted UI/UX designs. Successfully delivered a live hosted project.",
-    },
-    {
-      role: "Founder / CEO",
-      company: "Volt Kingdom",
-      period: "2024 – Present",
-      description:
-        "Lead a YouTube content creation team of 6 members. Oversee content strategy, creative direction, and video production management.",
-    },
-    {
-      role: "Founder / CEO",
-      company: "God of Gamerz",
-      period: "2024 – Present",
-      description:
-        "Built and manage an esports team of 5 competitive Free Fire Max players. Handle team coordination, strategy, and leadership.",
     },
   ];
 
@@ -82,3 +75,4 @@ const Experience: React.FC = () => {
 };
 
 export default Experience;
+
