@@ -101,7 +101,7 @@ const Hero: React.FC = () => {
 
         {/* Download Resume Button */}
         <motion.a
-          href="/MYJ Resume.pdf"
+          href="/Mohammed_Yaqoob_Jalal.pdf"
           download="MYJ Resume.pdf"
           whileTap={{ scale: 0.9 }}
           className="px-8 py-3 rounded-full text-white font-semibold shadow-lg 
@@ -132,3 +132,4 @@ const Hero: React.FC = () => {
 };
 
 export default Hero;
+
