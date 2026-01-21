@@ -35,32 +35,39 @@ const About: React.FC = () => {
         {/* Intro */}
         <p className="text-lg mb-4">
           I’m <span className="font-semibold text-white">Mohammed Yaqoob Jalal</span>, 
-          a passionate <span className="text-blue-400 font-medium">graphic designer</span> and{" "}
-          <span className="text-purple-400 font-medium">frontend developer</span>, 
-          recently graduated from{" "}
-          <span className="font-medium text-white">Atria Institute of Technology</span> in Information Science. 
-          I enjoy blending creativity with functionality to build seamless and engaging digital experiences.
+          a dedicated professional currently working at{" "}
+          <span className="font-medium text-blue-400">[24]7.ai</span>. I support customers by
+          handling queries, resolving issues efficiently, and maintaining high service quality
+          in a fast-paced environment. This role has strengthened my professionalism,
+          adaptability, and ability to work effectively with diverse users and teams.
         </p>
 
-        {/* Highlights */}
+        {/* Genzi.ai */}
         <p className="text-lg mb-4">
-          Beyond academics, I played key roles in{" "}
-          <span className="text-blue-400 font-medium">Cicada</span> as the{" "}
-          <span className="font-semibold text-white">SPOC</span> managing 80+ people and 9 events, 
-          and led my team to the{" "}
-          <span className="text-purple-400 font-medium">top 30 nationally</span> in{" "}
-          <span className="font-medium">Aveshana</span>, a prestigious prototype competition. 
-          I also contributed as a member of the{" "}
-          <span className="text-orange-300 font-medium">Grievance Cell</span>, 
-          where I honed skills in teamwork, communication, and problem-solving.
+          Previously, I worked at{" "}
+          <span className="font-medium text-purple-400">Genzi.ai</span>, a{" "}
+          <span className="text-white font-medium">software development startup</span>, where
+          I gained early-stage industry exposure and hands-on experience in supporting product
+          and operational workflows. Working in a startup environment helped me understand
+          real-world problem solving, fast iteration, and collaboration across technical and
+          non-technical teams.
         </p>
 
-        {/* Founder Roles */}
+        {/* Freelance */}
+        <p className="text-lg mb-4">
+          Alongside my full-time roles, I have also worked as a{" "}
+          <span className="font-medium text-orange-300">freelancer</span>, collaborating with
+          clients on project-based work. This experience improved my ability to work
+          independently, manage time efficiently, and communicate clearly to deliver results
+          aligned with client expectations.
+        </p>
+
+        {/* Career Direction */}
         <p className="text-lg">
-          Beyond design and code, I am the founder of{" "}
-          <span className="font-medium text-blue-400">Volt Kingdom</span> – a YouTube content creation team, 
-          and <span className="font-medium text-purple-400">God of Gamerz</span> – an esports team for Free Fire Max, 
-          where I manage talented creators and players.
+          With experience in a software startup, freelance work, and my current role at{" "}
+          <span className="font-medium text-blue-400">[24]7.ai</span>, I continue to grow
+          professionally and remain focused on building a career in the{" "}
+          <span className="text-white font-medium">IT and technical support domain</span>.
         </p>
       </motion.div>
 
